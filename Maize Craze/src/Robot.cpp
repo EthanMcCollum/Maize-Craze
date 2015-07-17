@@ -176,7 +176,7 @@ private:
 	{
 		if(armUp == true)
 		{
-			towerMotor->Set(10000);
+			towerMotor->Set(11000);
 		}
 		else
 		{
